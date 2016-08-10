@@ -1,2 +1,3 @@
 # hello-world
 this is my first GitHub project
+Let's see how it works...
